@@ -1,8 +1,6 @@
-
-         <div class="intro"> <br>
-            <p class="name-heading">HELLO I'M<br>MD SARFARAZ</p><br>
-            <p class="intro-description"> <span id="element"></span></p> <br>
-        </div>
+HELLO I'M MD SARFARAZ
+            
+        
     
     
 
