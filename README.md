@@ -1,4 +1,7 @@
-<h1 align="center">Hii 👋, I'm Md Sarfaraz</h1>
+  <div class="intro"> <br>
+            <p class="name-heading">HELLO I'M<br>MD SARFARAZ</p><br>
+            <p class="intro-description"> <span id="element"></span></p> <br>
+        </div>
 <h3 align="center">A passionate Java Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarafaraz43&label=Profile%20views&color=0e75b6&style=flat" alt="sarfaraz43" /> </p>
