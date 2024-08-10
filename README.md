@@ -3,10 +3,7 @@
             <p class="name-heading">HELLO I'M<br>MD SARFARAZ</p><br>
             <p class="intro-description"> <span id="element"></span></p> <br>
         </div>
-        <div class="my-image-div">
-            <img class="myimg" src="sar.jpg" width="200px" alt="my image">
-        </div>
-    </div>
+    
     
 
 
