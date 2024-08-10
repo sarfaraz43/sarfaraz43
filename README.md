@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MD Sarfaraz</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h1 align="center">Hii 👋, I'm Md Sarfaraz</h1>
+<h3 align="center">A passionate Java Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarafaraz43&label=Profile%20views&color=0e75b6&style=flat" alt="sarfaraz43" /> </p>
 
