@@ -1,8 +1,9 @@
   <div class="intro"> <br>
             <p class="name-heading">HI I'M<br>MD SARFARAZ</p><br>
+       <p class="card-text">THE BACKBONE OF EVERY WEBSITE ON THE WORLD WIDE WEB.</p>
   </div>
     
-<h3 align="center">A passionate Java Developer </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarafaraz43&label=Profile%20views&color=0e75b6&style=flat" alt="sarfaraz43" /> </p>
 
